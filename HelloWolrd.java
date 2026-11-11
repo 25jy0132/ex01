@@ -1,4 +1,4 @@
-
+//ここに書くなソースフォルダにかけ
 interface MessageProvider {
     String getMessage();
 }
